@@ -1,0 +1,8 @@
+.element-selector-overlay {
+    position: absolute;
+    background-color: rgba(40, 167, 69, 0.5);
+    border: 2px solid #28a745;
+    z-index: 99999999 !important;
+    pointer-events: none;
+    transition: all 0.05s ease-in-out;
+}
